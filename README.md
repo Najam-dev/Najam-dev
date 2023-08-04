@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-![mnajam](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{mnajam})
+![kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{mnajam})
 
 
-![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{mnajam}/{part})
+![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{mnajam}/{notebook})
