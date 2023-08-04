@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{mnajam})
 
 
-![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{mnajam}/{notebook})
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{mnajam}/{notebook})
