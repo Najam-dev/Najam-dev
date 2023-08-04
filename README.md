@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![mnajam](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{mnajam})
+
+
+![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{mnajam}/{part})
